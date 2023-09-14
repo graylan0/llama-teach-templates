@@ -1,0 +1,19 @@
+{
+    "courses": [
+        {
+            "title": "How to Build a PC",
+            "description": "Learn the basics of assembling a personal computer from scratch.",
+            "lessons": ["Introduction", "Components", "Assembly", "Testing"]
+        },
+        {
+            "title": "How to Install an Operating System",
+            "description": "A step-by-step guide to installing an operating system on your computer.",
+            "lessons": ["Preparation", "Installation", "First Boot", "Setup"]
+        },
+        {
+            "title": "Operating System Basics",
+            "description": "Understand the fundamental concepts and operations of an operating system.",
+            "lessons": ["Introduction", "File System", "Processes", "User Interface"]
+        }
+    ]
+}
